@@ -1,5 +1,9 @@
 # IITH Institute Community Chat App
 
+Name - Anushka Garg
+University - IIT Hyderabad
+Department - Engineering Physics
+
 # Introduction
 This is a code repository for my chat Application Project
 
